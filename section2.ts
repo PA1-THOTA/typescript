@@ -45,3 +45,5 @@ let users: (string | number)[];//it will numbers and strings into it.
 
 let users1 = Array<string | number>//generic types 
 //same to above code
+
+// asdfsd
