@@ -47,3 +47,5 @@ let users1 = Array<string | number>//generic types
 //same to above code
 
 // asdfsd
+
+//added from github
