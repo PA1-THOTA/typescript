@@ -10,4 +10,3 @@
 
 //we can specify generics to accept primitives / reference types by using constraints and extends keyword.
 
-console.log('sdfsascdcsdcss')

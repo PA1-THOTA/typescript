@@ -56,7 +56,7 @@ let possibleresults:[number,number]; //[1,-1] we can store only 2 values in this
 
 
 // types declaring in Objects 
-let user:{
+let user4:{
     name:string;
     age:number | string;
     hobbies:string[];
@@ -129,7 +129,7 @@ tuple1=[-1,1]
 type role= 'admin' | 'guest' | 'editor' | 'reader'
 let job:role='admin'
 //setting custom object type
-type user={
+type user5={
     name:string;
     age:number;
     role:role;
